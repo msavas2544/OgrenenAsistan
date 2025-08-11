@@ -1,0 +1,12 @@
+{
+  "dil": "tr",
+  "ogrenme_hizi": 0.8,
+  "maksimum_hafiza": 10000,
+  "yanit_gecikmesi": 1.0,
+  "kisilik": "dostane",
+  "debug_modu": false,
+  "otomatik_kaydet": true,
+  "ogrenme_esigi": 0.7,
+  "benzerlik_esigi": 0.6,
+  "maksimum_yanit_uzunlugu": 500
+}

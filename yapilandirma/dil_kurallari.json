@@ -1,0 +1,24 @@
+{
+  "turkce_karakterler": {
+    "buyuk_harfler": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ",
+    "kucuk_harfler": "abcçdefgğhıijklmnoöprsştuüvyz"
+  },
+  "selamlasmalar": [
+    "merhaba", "selam", "sa", "hey", "iyi günler", "günaydın", "iyi akşamlar"
+  ],
+  "vedalasmalar": [
+    "görüşürüz", "hoşça kal", "güle güle", "iyi günler", "bay bay", "elveda"
+  ],
+  "olumlu_ifadeler": [
+    "evet", "tamam", "olur", "tabii", "doğru", "haklısın", "güzel", "süper"
+  ],
+  "olumsuz_ifadeler": [
+    "hayır", "olmaz", "yanlış", "katılmıyorum", "kötü", "beğenmedim"
+  ],
+  "soru_kelimeleri": [
+    "nasıl", "ne", "kim", "nerede", "neden", "hangi", "kaç", "ne zaman"
+  ],
+  "durdurma_kelimeleri": [
+    "ve", "veya", "ile", "için", "ama", "fakat", "ancak", "ise", "ki"
+  ]
+}

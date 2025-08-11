@@ -1,0 +1,132 @@
+{
+  "bilgiler": {
+    "teknoloji_0": {
+      "id": "teknoloji_0",
+      "kullanici_mesaj": "Python hakkında bilgi verebilir misin?",
+      "asistan_cevap": "🤔 Bu konuda henüz yeterince bilgim yok, ama öğrenmeye açığım! Bana daha fazla anlat?",
+      "konu": "teknoloji",
+      "anahtar_kelimeler": [
+        "verebilir",
+        "hakkında",
+        "bilgi",
+        "misin?",
+        "python"
+      ],
+      "ogrenme_tarihi": "2025-08-12T00:12:06.987566",
+      "kullanim_sayisi": 1,
+      "basari_skoru": 0.0,
+      "guncelleme_tarihi": "2025-08-12T00:12:06.987566"
+    },
+    "genel_1": {
+      "id": "genel_1",
+      "kullanici_mesaj": "Bugün hava çok güzel",
+      "asistan_cevap": "🤖 Anlıyorum! Bu konuda benimle daha fazla konuşmak ister misin?",
+      "konu": "genel",
+      "anahtar_kelimeler": [
+        "çok",
+        "güzel",
+        "hava",
+        "bugün"
+      ],
+      "ogrenme_tarihi": "2025-08-12T00:12:07.989719",
+      "kullanim_sayisi": 1,
+      "basari_skoru": 0.0,
+      "guncelleme_tarihi": "2025-08-12T00:12:07.989719"
+    },
+    "teknoloji_2": {
+      "id": "teknoloji_2",
+      "kullanici_mesaj": "Nasıl Python öğrenebilirim?",
+      "asistan_cevap": "🤔 Teknoloji konusunda şunu biliyorum: 🤔 Bu konuda henüz yeterince bilgim yok, ama öğrenmeye açığım! Bana daha fazla anlat?",
+      "konu": "teknoloji",
+      "anahtar_kelimeler": [
+        "nasıl",
+        "python",
+        "öğrenebilirim?"
+      ],
+      "ogrenme_tarihi": "2025-08-12T00:12:08.993402",
+      "kullanim_sayisi": 1,
+      "basari_skoru": 0.0,
+      "guncelleme_tarihi": "2025-08-12T00:12:08.993402"
+    },
+    "teknoloji_3": {
+      "id": "teknoloji_3",
+      "kullanici_mesaj": "Python nedir?",
+      "asistan_cevap": "Python yüksek seviyeli bir programlama dilidir.",
+      "konu": "teknoloji",
+      "anahtar_kelimeler": [
+        "python",
+        "nedir?"
+      ],
+      "ogrenme_tarihi": "2025-08-12T00:12:53.484039",
+      "kullanim_sayisi": 1,
+      "basari_skoru": 0.0,
+      "guncelleme_tarihi": "2025-08-12T00:12:53.484039"
+    },
+    "eğitim_4": {
+      "id": "eğitim_4",
+      "kullanici_mesaj": "Nasıl öğrenebilirim?",
+      "asistan_cevap": "Sürekli pratik yaparak ve merak ederek öğrenebilirsin.",
+      "konu": "eğitim",
+      "anahtar_kelimeler": [
+        "nasıl",
+        "öğrenebilirim?"
+      ],
+      "ogrenme_tarihi": "2025-08-12T00:12:53.484433",
+      "kullanim_sayisi": 1,
+      "basari_skoru": 0.0,
+      "guncelleme_tarihi": "2025-08-12T00:12:53.484433"
+    },
+    "kişisel_5": {
+      "id": "kişisel_5",
+      "kullanici_mesaj": "Bugün nasılsın?",
+      "asistan_cevap": "İyiyim, teşekkür ederim! Sen nasılsın?",
+      "konu": "kişisel",
+      "anahtar_kelimeler": [
+        "bugün",
+        "nasılsın?"
+      ],
+      "ogrenme_tarihi": "2025-08-12T00:12:53.484433",
+      "kullanim_sayisi": 1,
+      "basari_skoru": 0.0,
+      "guncelleme_tarihi": "2025-08-12T00:12:53.484433"
+    },
+    "eğitim_6": {
+      "id": "eğitim_6",
+      "kullanici_mesaj": "Python nasıl öğrenilir?",
+      "asistan_cevap": "Python öğrenmek için önce temel syntax'ı öğren, sonra projeler yap!",
+      "konu": "eğitim",
+      "anahtar_kelimeler": [
+        "python",
+        "nasıl",
+        "öğrenilir?"
+      ],
+      "ogrenme_tarihi": "2025-08-12T00:13:31.593012",
+      "kullanim_sayisi": 1,
+      "basari_skoru": 0.0,
+      "guncelleme_tarihi": "2025-08-12T00:13:31.593012"
+    }
+  },
+  "konular": {
+    "teknoloji": [
+      "teknoloji_0",
+      "teknoloji_2",
+      "teknoloji_3"
+    ],
+    "genel": [
+      "genel_1"
+    ],
+    "eğitim": [
+      "eğitim_4",
+      "eğitim_6"
+    ],
+    "kişisel": [
+      "kişisel_5"
+    ]
+  },
+  "iliskiler": {},
+  "istatistikler": {
+    "toplam_bilgi": 7,
+    "son_guncelleme": "2025-08-12T00:13:31.593012",
+    "version": "1.0"
+  }
+}

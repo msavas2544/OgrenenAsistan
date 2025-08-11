@@ -1,0 +1,21 @@
+{
+  "kullanicilar": {
+    "test_kullanici": {
+      "ad": "test_kullanici",
+      "tercihler": {},
+      "ogrenme_gecmisi": [],
+      "kisilik_profili": "dostane",
+      "son_etkilesim": "2025-08-12T00:12:05.979729",
+      "toplam_sohbet": 1,
+      "olusturma_tarihi": "2025-08-12T00:12:05.979729"
+    }
+  },
+  "varsayilan_profil": {
+    "ad": "",
+    "tercihler": {},
+    "ogrenme_gecmisi": [],
+    "kisilik_profili": "dostane",
+    "son_etkilesim": "",
+    "toplam_sohbet": 0
+  }
+}

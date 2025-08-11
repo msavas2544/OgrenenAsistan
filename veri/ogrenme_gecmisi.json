@@ -1,0 +1,54 @@
+{
+  "ogrenme_kayitlari": [
+    {
+      "tarih": "2025-08-12T00:12:06.987566",
+      "islem_tipi": "yeni_bilgi",
+      "bilgi_id": "teknoloji_0",
+      "basarili": true
+    },
+    {
+      "tarih": "2025-08-12T00:12:07.989719",
+      "islem_tipi": "yeni_bilgi",
+      "bilgi_id": "genel_1",
+      "basarili": true
+    },
+    {
+      "tarih": "2025-08-12T00:12:08.993402",
+      "islem_tipi": "yeni_bilgi",
+      "bilgi_id": "teknoloji_2",
+      "basarili": true
+    },
+    {
+      "tarih": "2025-08-12T00:12:53.484039",
+      "islem_tipi": "yeni_bilgi",
+      "bilgi_id": "teknoloji_3",
+      "basarili": true
+    },
+    {
+      "tarih": "2025-08-12T00:12:53.484433",
+      "islem_tipi": "yeni_bilgi",
+      "bilgi_id": "eğitim_4",
+      "basarili": true
+    },
+    {
+      "tarih": "2025-08-12T00:12:53.484433",
+      "islem_tipi": "yeni_bilgi",
+      "bilgi_id": "kişisel_5",
+      "basarili": true
+    },
+    {
+      "tarih": "2025-08-12T00:13:31.593012",
+      "islem_tipi": "yeni_bilgi",
+      "bilgi_id": "eğitim_6",
+      "basarili": true
+    }
+  ],
+  "basarili_ogrenmeler": 7,
+  "basarisiz_ogrenmeler": 0,
+  "son_ogrenme": "2025-08-12T00:13:31.593012",
+  "ogrenme_istatistikleri": {
+    "gunluk": {},
+    "haftalik": {},
+    "aylik": {}
+  }
+}
